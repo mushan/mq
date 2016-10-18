@@ -1,4 +1,4 @@
-##MQ
+##TMQ
 Distributed message queue.
 
 ##Links
